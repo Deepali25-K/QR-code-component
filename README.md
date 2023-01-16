@@ -22,11 +22,11 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 Desktop:
 
-![Alt text](Screenshots/FM-02(2).png)
+![](https://i.ibb.co/mS198KF/FM-02-2.png)
 
 Mobile:
 
-![Alt text](Screenshots/FM-02(1).png)
+![](https://i.ibb.co/xHQNCQD/FM-02-1.png)
 
 ### Links
 
