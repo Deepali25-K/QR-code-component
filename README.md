@@ -22,11 +22,11 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 Desktop:
 
-![](C:\Users\Deepali\OneDrive\Desktop\Current\qr-code-component-main\Screenshots\FM-02(2).png)
+![Alt text](Screenshots/FM-02(2).png)
 
 Mobile:
 
-![](C:\Users\Deepali\OneDrive\Desktop\Current\qr-code-component-main\Screenshots\FM-02(1).png)
+![Alt text](Screenshots/FM-02(1).png)
 
 ### Links
 
