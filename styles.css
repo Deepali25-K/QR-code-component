@@ -44,7 +44,7 @@ img{
 h1{
   font-weight: 700;
   font-size: 2.2rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.5rem;
   color: hsl(218, 44%, 22%); 
 }
 
@@ -52,15 +52,4 @@ p{
   font-weight: 400;
   font-size: 1.5rem;
   color: hsl(220, 15%, 55%);
-}
-
-footer{
-  font-size: 1.2rem;
-  text-align: center;
-  color: hsl(228, 12%, 48%);
-}
-
-footer a{
-  text-decoration: none;
-  color: hsl(218, 44%, 22%);
 }

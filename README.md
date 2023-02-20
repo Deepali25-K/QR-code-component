@@ -29,7 +29,7 @@ Mobile:
 
 ### Links
 
-- Live Site URL: [Code Demo](https://deepalipanchal.netlify.app/)
+- Live Site URL: [Code Demo](https://qr-code-component-deepali.netlify.app/)
 
 ### Built with
 
